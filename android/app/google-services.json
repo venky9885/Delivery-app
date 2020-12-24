@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890932271682",
+    "firebase_url": "https://abduldelivery-3f455.firebaseio.com",
+    "project_id": "abduldelivery-3f455",
+    "storage_bucket": "abduldelivery-3f455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890932271682:android:a855ea61762cd51e6dabdb",
+        "android_client_info": {
+          "package_name": "com.abdul.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890932271682-8d77obn5qovbeu9es47o1ije9srj74a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAu-p84M1NffF2jsuT16IDfJ4ADEsBSe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890932271682-8d77obn5qovbeu9es47o1ije9srj74a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
